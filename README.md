@@ -1,5 +1,5 @@
 ## About Me:
-Hi! I'm Chiara and I'm graduated in Computer Science Student at University of Salerno
+Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno 📚💻
 
 
 ## 🌐 Socials:
