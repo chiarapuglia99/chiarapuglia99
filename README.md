@@ -22,8 +22,3 @@ Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno �
 </p>
 
 ---
-
-### 👁️ Profilo visitato:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chiarapuglia99&label=VISITE+PROFILO&color=7aa2f7&style=flat-square" alt="chiarapuglia99" />
-</p>
