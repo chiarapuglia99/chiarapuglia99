@@ -1,5 +1,9 @@
 ## About Me:
-Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno but currently i'm attending the master's degree in Computer Science, Data Science and Machine Learning. 📚💻
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=600&height=45&lines=Hi!+I'm+Chiara+👋;CS+Graduate+@+University+of+Salerno+🎓;Master's+Student+in+Data+Science+%26+ML+📚💻;DeepFake+Detection+Researcher+🛡️" alt="Typing SVG" />
+  </a>
+</p> 📚💻
 
 
 ## 🌐 Socials:
