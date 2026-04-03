@@ -10,7 +10,7 @@ Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno ğŸ
 # ğŸ“Š GitHub Stats:
 
 <p align="left">
-  <img src="https://github-stats-alpha.vercel.app/api?username=chiarapuglia99&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiarapuglia99&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
   
   <br/>
 
@@ -18,18 +18,12 @@ Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno ğŸ
 
   <br/>
 
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=chiarapuglia99&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarapuglia99&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
 </p>
 
 ---
 
 ### ğŸ‘ï¸ Profilo visitato:
-![](https://profile-counter.glitch.me/chiarapuglia99/count.svg)
-
----
-
 <p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chiarapuglia99&icon=0&color=1" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=chiarapuglia99&label=VISITE+PROFILO&color=7aa2f7&style=flat-square" alt="chiarapuglia99" />
 </p>
