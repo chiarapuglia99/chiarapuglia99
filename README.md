@@ -1,5 +1,5 @@
 ## About Me:
-Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno 📚💻
+Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno but currently i'm attending the master's degree in Computer Science, Data Science and Machine Learning. 📚💻
 
 
 ## 🌐 Socials:
