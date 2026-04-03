@@ -10,7 +10,7 @@ Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno ğŸ
 # ğŸ“Š GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiarapuglia99&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chiarapuglia99&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
   
   <br/>
 
@@ -18,7 +18,7 @@ Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno ğŸ
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarapuglia99&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chiarapuglia99&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
 </p>
 
 ---
