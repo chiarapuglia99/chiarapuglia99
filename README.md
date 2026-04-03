@@ -10,16 +10,21 @@ Hi! I'm Chiara and I'm graduated in Computer Science at University of Salerno �
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiarapuglia99&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-</p>
+  <img src="https://github-stats-alpha.vercel.app/api?username=chiarapuglia99&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  
+  <br/>
 
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiarapuglia99&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=chiarapuglia99&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiarapuglia99&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
-</p>
+---
+
+### 👁️ Profilo visitato:
+![](https://profile-counter.glitch.me/chiarapuglia99/count.svg)
 
 ---
 
