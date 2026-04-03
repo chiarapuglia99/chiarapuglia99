@@ -1,9 +1,9 @@
 ## About Me:
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=600&height=45&lines=Hi!+I'm+Chiara+👋;I'm+Graduated+in+Computer+Science+at+University+of+Salerno+🎓;Master's+Degree+Student+in+Data+Science+and+MAchineLearning+📚💻 alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=800&height=45&lines=Hi!+I'm+Chiara+👋;I'm+Graduated+in+Computer+Science+at+University+of+Salerno+🎓;Master's+Degree+Student+in+Data+Science+and+Machine+Learning+📚💻" alt="Typing SVG" />
   </a>
-</p> 📚💻
+</p>
 
 
 ## 🌐 Socials:
